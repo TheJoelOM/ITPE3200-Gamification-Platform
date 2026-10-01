@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zH0l5T/Cpe0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joel_\\Desktop\\Itpe3200_Exam Group Project\\ITPE3200-Gamification-Platform\\subapp2-api\\subapp2-api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joel_\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.12\\microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "C:\\Users\\joel_\\.nuget\\packages\\microsoft.openapi\\2.12.0\\microsoft.openapi.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
